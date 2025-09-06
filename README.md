@@ -1,2 +1,2 @@
-# khushi
+# Hi there
 Learning repo with coding practice and mini projects in Computer Science and Engineering.
